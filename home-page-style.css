@@ -54,7 +54,7 @@
         /* Theme Toggle Button */
         .theme-toggle {
             position: fixed;
-            top: 6rem;
+            top: 1rem;
             right: 95.5%;
             z-index: 1001;
             background: var(--card-bg);
@@ -836,4 +836,5 @@
                 width: 45px;
                 height: 45px;
             }
+
         }
